@@ -1,2 +1,1 @@
-# hide0
-Password-protected batch script to hide a specified folder.
+This repository contains a Windows batch script that allows users to securely hide or unhide files within a specified folder. The script includes password protection, handles cross-drive navigation with cd /d, and supports basic input validation. Ideal for quick file protection without third-party tools.
